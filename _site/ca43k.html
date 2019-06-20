@@ -12,11 +12,11 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Vince Carey’s team does &lt;a href=http://www.bioconductor.org&gt;Bioconductor&lt;/a&gt;, NCI ITCR, NHGRI AnVIL, and various NIH clinical trials" />
 <meta property="og:description" content="Vince Carey’s team does &lt;a href=http://www.bioconductor.org&gt;Bioconductor&lt;/a&gt;, NCI ITCR, NHGRI AnVIL, and various NIH clinical trials" />
-<link rel="canonical" href="http://localhost:4000/another-page.html" />
-<meta property="og:url" content="http://localhost:4000/another-page.html" />
+<link rel="canonical" href="http://localhost:4000/ca43k.html" />
+<meta property="og:url" content="http://localhost:4000/ca43k.html" />
 <meta property="og:site_name" content="Vincent Carey Biostatistics/Genome Bioinformatics" />
 <script type="application/ld+json">
-{"description":"Vince Carey’s team does &lt;a href=http://www.bioconductor.org&gt;Bioconductor&lt;/a&gt;, NCI ITCR, NHGRI AnVIL, and various NIH clinical trials","@type":"WebPage","url":"http://localhost:4000/another-page.html","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/vjclogo1.png"}},"headline":"Vincent Carey Biostatistics/Genome Bioinformatics","@context":"https://schema.org"}</script>
+{"description":"Vince Carey’s team does &lt;a href=http://www.bioconductor.org&gt;Bioconductor&lt;/a&gt;, NCI ITCR, NHGRI AnVIL, and various NIH clinical trials","@type":"WebPage","url":"http://localhost:4000/ca43k.html","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/vjclogo1.png"}},"headline":"Vincent Carey Biostatistics/Genome Bioinformatics","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=">
@@ -49,9 +49,37 @@
       </header>
       <section>
 
-      <h2 id="welcome-to-another-page">Welcome to another page</h2>
+      <h2 id="access-to-43000-cancer-related-transcriptomes-not-in-tcga">Access to 43000 cancer-related transcriptomes not in TCGA</h2>
 
-<p><em>yay</em></p>
+<p><a href="http://vjcitn.shinyapps.io/ca43k">Live app</a>…<a href="http://github.com/vjcitn/HumanTranscriptomeCompendium">Source code</a></p>
+
+<p>This is a result of a collaborative effort with Dr Sean
+Davis of NCI Center for Cancer Research and John Readey
+of the HDF Group.  The basic idea is that Sean’s OmicIDX
+and BigRNA APIs have been used to create snapshots of 
+cancer-related RNA-seq studies and associated metadata.</p>
+
+<p>The quantifications were set up for global distributon
+via the HDF Scalable Data Service (HSDS), and SummarizedExperiment
+interfaces were set up via the restfulSE package.</p>
+
+<p><img src="./ca43ktop.png" alt="Screenshot of ca43k app" /></p>
+
+<p>The user can click on a study to add it to the “cart” which
+will define a RESTful SummarizedExperiment for downloading.
+The SummarizedExperiment will include data and metadata from all
+selected studies, but assay data will not be downloaded.  Instead,
+the assay data are referenced through the DelayedArray protocol,
+retrieved, ultimately, as needed via HSDS.</p>
+
+<p>Tab panels provide searchable tables of all available sample-level
+metadata.</p>
+
+<p><img src="./ca43kmeta.png" alt="Screenshot of metadata table" /></p>
+
+<p>The “about” tab describes some details of metadata handling.</p>
+
+<p><img src="./ca43kAbout.png" alt="Screenshot of about tab" /></p>
 
 <p><a href="./">back</a></p>
 

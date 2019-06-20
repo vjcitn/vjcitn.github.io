@@ -2,10 +2,20 @@
 layout: default
 ---
 
+## Our institutional and physical homes
+
+* [Channing Division of Network Medicine](https://www.brighamandwomens.org/research/departments/channing-division-of-network-medicine/overview)
+* [Landmark Center Boston](https://en.wikipedia.org/wiki/Landmark_Center_(Boston))
+
 ## Our apps for genomic data science
 
 * [Interpreting RNA-seq derived haplotypes](./phaser.html)
+* [Exploring and retrieving subsets of 43000 cancer transcriptomes not in TCGA](./ca43k.html)
+* [Exploring the IvyGAP Glioblastoma RNA-seq data with image-derived phenotyping](./ivygap.html)
 
+### More resources and references coming soon!  This site was begun 20 June 2019!
+
+<!--
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -125,3 +135,4 @@ The final element.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+-->
