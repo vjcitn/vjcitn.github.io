@@ -1,18 +1,3 @@
----
-title: "Bioc and github packages by Vince Carey and team"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
-vignette: >
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteIndexEntry{}
-  %\VignetteEncoding{UTF-8}
-output:
-  BiocStyle::html_document:
-    highlight: pygments
-    number_sections: yes 
-    theme: united
-    toc: yes 
----
-
 ```{r setup, echo=FALSE,results="hide"}
 glink = function(x) sprintf("[%s](https://github.com/vjcitn/%s)", x, x)
 ```
