@@ -13,6 +13,10 @@ layout: default
 * [Exploring and retrieving subsets of 43000 cancer transcriptomes not in TCGA](./ca43k.html)
 * [Exploring the IvyGAP Glioblastoma RNA-seq data with image-derived phenotyping](./ivygap.html)
 
+## Software
+
+* [Annotated index](./chanPacks.html)
+
 ### More resources and references coming soon!  This site was begun 20 June 2019!
 
 <!--
