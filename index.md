@@ -13,7 +13,7 @@ layout: default
 * [Exploring and retrieving subsets of 43000 cancer transcriptomes not in TCGA](./ca43k.html)
 * [Exploring the IvyGAP Glioblastoma RNA-seq data with image-derived phenotyping](./ivygap.html)
 
-## Software
+## Software (aka the Channingverse)
 
 * [Annotated index](./chanPacks.html)
 
