@@ -7,6 +7,10 @@ layout: default
 * [Channing Division of Network Medicine](https://www.brighamandwomens.org/research/departments/channing-division-of-network-medicine/overview)
 * [Landmark Center Boston](https://en.wikipedia.org/wiki/Landmark_Center_(Boston))
 
+## Recent talks
+
+* [Software ecosystem concepts for federated genomic data science](https://docs.google.com/presentation/d/1LMR3upAQZMdfAP4-UAl6-UMU6udA_NkqRMKsnM1jPfs/edit?usp=sharing)
+
 ## Our apps for genomic data science
 
 * [Interpreting RNA-seq derived haplotypes](./phaser.html)
