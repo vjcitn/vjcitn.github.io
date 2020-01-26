@@ -10,6 +10,7 @@ layout: default
 ## Recent talks
 
 * [Software ecosystem concepts for federated genomic data science](https://docs.google.com/presentation/d/1LMR3upAQZMdfAP4-UAl6-UMU6udA_NkqRMKsnM1jPfs/edit?usp=sharing)
+* [GA4GH meets Bioconductor](https://docs.google.com/presentation/d/1wmv0wfLqYhZOcvqIA1lanypH0dtQ_hukJfBOuVw1Jzs/edit?usp=sharing)
 
 ## Our apps for genomic data science
 
