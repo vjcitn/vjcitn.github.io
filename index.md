@@ -25,4 +25,3 @@ layout: default
 
 ### More resources and references coming soon!  This site was begun 20 June 2019!
 
-![new image](./vjclogo1.png)
