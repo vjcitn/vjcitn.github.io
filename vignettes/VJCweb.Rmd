@@ -1,0 +1,22 @@
+---
+title: "Vince Carey personal web page"
+author: "Vincent J. Carey, stvjc at channing.harvard.edu"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+vignette: >
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteIndexEntry{Vince Carey personal web page}
+  %\VignetteEncoding{UTF-8}
+output:
+  rmarkdown::html_document:
+    highlight: pygments
+    number_sections: yes
+    theme: united
+    toc: yes
+---
+
+# Overview
+
+This web site is a work in progress, collecting references
+and tools to several decades worth of work in biostatistics
+and genomic data science.  The Articles tab of the pkgdown
+site will provide more details.

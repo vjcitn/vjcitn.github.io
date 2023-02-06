@@ -1,7 +1,7 @@
 Package: VJCweb
 Date: 2022-10-01
 Title: VJCweb
-Version: 0.0.0
+Version: 0.0.1
 Authors@R: 
     c(person(
         "Vincent", "Carey", role = c("aut", "cre"),
@@ -13,9 +13,9 @@ Description: VJCweb
 License: Artistic-2.0
 Encoding: UTF-8
 Depends: R (>= 3.6), dplyr
-Suggests: knitr, testthat
+Suggests: knitr, testthat, ontoProc, AnnotationHub
 VignetteBuilder: knitr
 biocViews: Infrastructure
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.3
 URL: https://github.com/vjcitn/vjcitn.github.io
 BugReports: https://github.com/vjcitn/vjcitn.github.io/issues
