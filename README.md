@@ -9,14 +9,44 @@
  </tr>
  <tr>
 <td>
-<img src="man/figures/vjclogo1.png" width=200px/>
+<img src="man/figures/onbridge.png" width=200px/>
 </td>
 <td colspan="2">
  <p>
 Vince Carey, Ph.D., is Professor of Medicine at Channing Division of Network
 Medicine, Mass General Brigham, Harvard Medical School.
+<p>
+As a Fulbright Specialist and as an invited lecturer, he has given short courses in statistical genomics on four continents. He was an inaugural faculty member in the Cold Spring Harbor Laboratory Summer Course on statistical analysis of genome-scale data (2005-2010 and intermittently thereafter), and in 2009 was inaugural Editor-in-Chief of The R Journal. 
+<p>
+A founding contributor to the Bioconductor project in 2001, Vince is now MPI of the
+[NHGRI U24](https://reporter.nih.gov/search/VqeRdGREj0SNE3kZAPXvdg/project-details/10806984) supporting core 
+developer activities.  He is also MPI of the NHGRI [AnVIL](https://anvilproject.org) cloud computing platform. 
+<p>
+Vince has led several Chan-Zuckerberg Initiative Essential Open Source Software projects
+addressing enhanced community support and inclusiveness.  One outcome is the [YESCDS](https://vjcitn.github.io/YESCDS)
+curriculum for introductory genomic data science with applications to cancer.
+<p>
+As of 2024 Vince is a member of the Scientific Advisory Board of the [Vaccine and Immunology Statistical Center](https://ghdiscoverycollaboratory.org/platforms/vaccine-immunology-statistical-center) of the Collaboration for AIDS Vaccine Discovery, and of the External Advisory Board for [NIAID ImmPort](https://www.immport.org/home).
 </td>
  </tr>
+
+<!--
+https://pubmed.ncbi.nlm.nih.gov/31792435/  orch sc
+
+https://pubmed.ncbi.nlm.nih.gov/35199087/ anvil
+
+https://pubmed.ncbi.nlm.nih.gov/25633503/ bioc 2015
+
+https://pubmed.ncbi.nlm.nih.gov/32023372/ vdaart
+
+https://pubmed.ncbi.nlm.nih.gov/25514303/ omnicarb
+
+https://pubmed.ncbi.nlm.nih.gov/19246357/ pounds lost
+
+https://pubmed.ncbi.nlm.nih.gov/15351753/ pac port
+
+https://pubmed.ncbi.nlm.nih.gov/2785883/ HIV immunology
+-->
 
  <tr>
     <td><b style="font-size:30px">  </b></td>
@@ -45,11 +75,9 @@ Medicine, Mass General Brigham, Harvard Medical School.
     - Marcel Ramos
     - Jen Wokaty
     - Alex Mahmoud
-    - Bob Shear
 
 - Channing Division of Network Medicine
     - Nancy Laranjo
-    - BJ Stubbs
     - Xavier Reilly
     - Sara Stankiewicz
     - Alex Mahmoud
@@ -61,7 +89,6 @@ Medicine, Mass General Brigham, Harvard Medical School.
 
 - computational genomic data science
     - ontoproc/pogos
-    - htx
     - BiocHail
     - gwascat/gwaslake
     - TFutils
