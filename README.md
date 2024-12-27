@@ -8,8 +8,9 @@
     <td><b style="font-size:30px">  </b></td>
  </tr>
  <tr>
-<td>
-<img src="man/figures/onbridge.png" width=200px/>
+<td colspan="2">
+<img src="man/figures/vjcsq.jpeg" width=250px/>
+<img src="man/figures/softeco.png" width=250px/>
 </td>
 <td colspan="2">
  <p>
