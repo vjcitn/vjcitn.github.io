@@ -6,11 +6,12 @@
     <td><b style="font-size:30px">  </b></td>
     <td><b style="font-size:30px">  </b></td>
     <td><b style="font-size:30px">  </b></td>
+    <td><b style="font-size:30px">  </b></td>
  </tr>
  <tr>
 <td colspan="2">
-<img src="man/figures/vjcsq.jpeg" width=250px/>
-<img src="man/figures/softeco.png" width=250px/>
+<img src="man/figures/vjcsq.jpeg" width=450px/>
+<img src="man/figures/softeco.png" width=450px/>
 </td>
 <td colspan="2">
  <p>
@@ -31,25 +32,9 @@ As of 2024 Vince is a member of the Scientific Advisory Board of the [Vaccine an
 </td>
  </tr>
 
-<!--
-https://pubmed.ncbi.nlm.nih.gov/31792435/  orch sc
-
-https://pubmed.ncbi.nlm.nih.gov/35199087/ anvil
-
-https://pubmed.ncbi.nlm.nih.gov/25633503/ bioc 2015
-
-https://pubmed.ncbi.nlm.nih.gov/32023372/ vdaart
-
-https://pubmed.ncbi.nlm.nih.gov/25514303/ omnicarb
-
-https://pubmed.ncbi.nlm.nih.gov/19246357/ pounds lost
-
-https://pubmed.ncbi.nlm.nih.gov/15351753/ pac port
-
-https://pubmed.ncbi.nlm.nih.gov/2785883/ HIV immunology
--->
 
  <tr>
+    <td><b style="font-size:30px">  </b></td>
     <td><b style="font-size:30px">  </b></td>
     <td><b style="font-size:30px">  </b></td>
     <td><b style="font-size:30px">  </b></td>
@@ -57,17 +42,26 @@ https://pubmed.ncbi.nlm.nih.gov/2785883/ HIV immunology
 
  <tr>
 
-<td>
+<td colspan="2">
 ## Projects
 
-- Bioconductor
-- NHGRI AnVIL
-- NIA MIND
-- NIA NOURISH
+- Current
+    - [Bioconductor NHGRI U24](https://bioconductor.org) ([NIHrep record](https://reporter.nih.gov/project-details/10088557))
+    - [NHGRI AnVIL](https://anvilproject.org) ([NIHrep record](https://reporter.nih.gov/project-details/10892285))
+    - [NCI ITCR](https://www.cancer.gov/about-nci/organization/cssi/resources/informatics-tools) ([NIHrep record](https://reporter.nih.gov/project-details/10865962))
+    - NIA NOURISH trial (Data Coordinating Center), ([NIHrep record](https://reporter.nih.gov/project-details/10249066))
+    - EOSS6: Essential Open Source Software for Science (Cycle 6): Ontological resource tagging and discovery for Bioconductor ID: EOSS6-0000000067
+- Past
+    - NCI Cloud Scale Bioconductor [NIHrep record](https://reporter.nih.gov/project-details/9295396)
+    - NIA MIND Trial
+    - NIDDK Diet and insulin sensitivity: statistical methods [NIH rep record](https://reporter.nih.gov/project-details/8788350)
+    - Common Fund Interfaces [NIHrep record](https://reporter.nih.gov/project-details/10356362)
+    - CZI Essential Open Source Software for Science: Bioconductor Build System: continuous integration and developer feedback ID: [EOSS-0000000218](https://chanzuckerberg.com/eoss/proposals/bioconductor-build-system-continuous-integration-and-developer-feedback/)
+    - CZI Essential Open Source Software for Science: Bioconductor: Sustaining a worldwide community of genome data scientists: [EOSS-DI-0000000033](https://chanzuckerberg.com/eoss/proposals/bioconductor-sustaining-a-worldwide-community-of-genome-data-scientists/)
 </td>
 
 
-<td>
+<td colspan="2">
 ## Team members
 
 - Bioconductor core devs
@@ -80,13 +74,10 @@ https://pubmed.ncbi.nlm.nih.gov/2785883/ HIV immunology
 - Channing Division of Network Medicine
     - Nancy Laranjo
     - Xavier Reilly
-    - Sara Stankiewicz
     - Alex Mahmoud
     - Madeline Carpenter
-</td>
-<td>
-## Themes and tools
 
+## Themes and tools
 
 - computational genomic data science
     - ontoproc/pogos
@@ -107,5 +98,5 @@ https://pubmed.ncbi.nlm.nih.gov/2785883/ HIV immunology
     - RDEC
     - barca
 </td>
- </tr>
+</tr>
 </table>
