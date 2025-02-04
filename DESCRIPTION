@@ -1,7 +1,7 @@
 Package: VJCweb
 Date: 2024-10-30
 Title: VJCweb
-Version: 0.0.2
+Version: 0.0.3
 Authors@R: 
     c(person(
         "Vincent", "Carey", role = c("aut", "cre"),
