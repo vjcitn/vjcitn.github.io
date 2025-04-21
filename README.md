@@ -21,7 +21,7 @@ Schematic of an ecosystem for genomic data science:
 </td>
 <td colspan="2">
  <p>
-Vince Carey, Ph.D., is Professor of Medicine at Channing Division of Network
+Vince Carey, Ph.D., (ORCID 0000-0003-4046-0063) is Professor of Medicine at Channing Division of Network
 Medicine, Mass General Brigham, Harvard Medical School.
 <p>
 As a Fulbright Specialist and as an invited lecturer, he has given short courses in statistical genomics on four continents. He was an inaugural faculty member in the Cold Spring Harbor Laboratory Summer Course on statistical analysis of genome-scale data (2005-2010 and intermittently thereafter), and in 2009 was inaugural Editor-in-Chief of The R Journal. 
