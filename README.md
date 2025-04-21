@@ -11,6 +11,12 @@
  <tr>
 <td colspan="2">
 <img src="man/figures/vjcsq.jpeg" width=450px/>
+<ul>
+<li> ORCID 0000-0003-4046-0063 </li>
+<li> NSF ID 000938641 </li>
+<li> NCBI <a href="https://www.ncbi.nlm.nih.gov/myncbi/vincent.carey.1/bibliography/public/">bibliography</a> </li>
+</ul>
+Schematic of an ecosystem for genomic data science:
 <img src="man/figures/softeco.png" width=450px/>
 </td>
 <td colspan="2">
