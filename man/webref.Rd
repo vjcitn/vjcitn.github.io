@@ -10,5 +10,5 @@ webref()
 Personal web site reference material
 }
 \note{
-Experimental
+Completely experimental
 }

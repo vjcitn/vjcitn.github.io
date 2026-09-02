@@ -1,5 +1,5 @@
 #' Personal web site reference material
-#' @note Experimental
+#' @note Completely experimental
 webref = function() {NULL}
 
 #' ontoProc: convenient representations of ontologies for genomic data science
